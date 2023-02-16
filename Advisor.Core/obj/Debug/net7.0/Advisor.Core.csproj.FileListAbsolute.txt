@@ -1,0 +1,14 @@
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\bin\Debug\net7.0\Advisor.Core.deps.json
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\bin\Debug\net7.0\Advisor.Core.runtimeconfig.json
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\bin\Debug\net7.0\Advisor.Core.dll
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\bin\Debug\net7.0\Advisor.Core.pdb
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.csproj.AssemblyReference.cache
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.AssemblyInfoInputs.cache
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.AssemblyInfo.cs
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.csproj.CoreCompileInputs.cache
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.dll
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\refint\Advisor.Core.dll
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.pdb
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\Advisor.Core.genruntimeconfig.cache
+C:\Users\dev.gupta1\OneDrive - Incedo Technology Solutions Ltd\Desktop\aaaa\AdvisorSolution\Advisor.Core\obj\Debug\net7.0\ref\Advisor.Core.dll
